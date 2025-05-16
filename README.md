@@ -27,22 +27,50 @@
 - UI controls (FlowLayoutPanel, ComboBox, CheckBox, GroupBox)
 
 ---
-
-## UI & Design
-
-- Warm color palette (beige, pastel pink, soft green)
-- Friendly fonts (Comic Sans, Segoe UI)
-- Custom buttons and animated illustrations
-- Responsive layout using FlowLayoutPanel for better scaling
-
----
-
 ## How to Run
 
 1. Open the solution in **Visual Studio**.
 2. Build the project.
 3. Run the application locally.
 4. Click **“Start your journey”** and follow the steps to adopt your cat!
+
+
+---
+
+## UI Preview
+
+The app starts with a welcoming screen where users are invited to begin their journey toward finding the perfect cat companion. 
+<img src="images/main-ui.png" width="500"/>
+
+Once inside, users are presented with multiple cat profiles. Each profile shows an image, name, age, personality, and a button that invites interaction — **"Choose Me!"**.
+
+<img src="images/cat-details-view.png" width="500"/>
+
+To refine their choices, users can filter cats by name, gender, and specific traits like “kitten” or “calm”.
+ 
+<img src="images/filter-options.png" width="500"/>
+
+If no cats match the selected filters, a custom popup appears, encouraging users to try again with different options.
+ 
+<img src="images/no-cats-found-popup.png" width="500"/>
+
+After choosing a cat, the user is guided through a multi-step form to complete the adoption process. The form collects key information like name, city, contact details, and living environment.
+ 
+<img src="images/user-form-empty.png" width="500"/>
+
+
+Additional form sections allow users to select their experience with cats...
+
+<img src="images/experience-dropdown.png" width="500"/>
+
+...and provide information about their living situation and whether other pets are present.
+
+<img src="images/living-situation-dropdown.png" width="500"/>
+
+Once everything is completed, a personalized thank-you screen is shown — ending the process with a warm and friendly message.
+
+<img src="images/thank-you-screen.png" width="500"/>
+
 
 ---
 
