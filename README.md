@@ -40,6 +40,7 @@
 ## UI Preview
 
 The app starts with a welcoming screen where users are invited to begin their journey toward finding the perfect cat companion. 
+
 <img src="images/main-ui.png" width="500"/>
 
 Once inside, users are presented with multiple cat profiles. Each profile shows an image, name, age, personality, and a button that invites interaction — **"Choose Me!"**.
