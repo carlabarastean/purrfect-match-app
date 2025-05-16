@@ -1,7 +1,7 @@
 # PurrfectMatch 
 
 ![platform](https://img.shields.io/badge/platform-Windows%20Forms-blue)
-![language](https://img.shields.io/badge/language-C%23-purple)
+[![C#](https://img.shields.io/badge/language-C%23-purple)]()
 
 **PurrfectMatch** is a Windows Forms application that helps users find and "adopt" the perfect cat based on their preferences. It offers a friendly, animated UI with a smooth step-by-step selection process — turning a fun idea into an interactive digital adoption experience.
 
